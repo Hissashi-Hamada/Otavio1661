@@ -1,82 +1,99 @@
-# Olá, sou Otávio Silva 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=029000&height=140&section=header">
 
-Seja bem-vindo ao meu perfil no GitHub! Sou desenvolvedor **Full Stack** e estou constantemente em evolução, sempre em busca de novos desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades no universo da programação.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Otavio+Silva;Desenvolvedor+Full+Stack+júnior;Aprendendo+sempre,+avançando+sempre.;)](https://git.io/typing-svg) 
 
-Neste espaço, você encontrará uma variedade de projetos, abrangendo tanto o desenvolvimento **Frontend** quanto **Backend**, com foco em soluções escaláveis, eficientes e inovadoras.
-
+<div align="center">
+Olá eu sou Otavio Silva, seja bem-vindo ao meu perfil no GitHub! Sou desenvolvedor <strong>Full Stack</strong> e estou constantemente em evolução, sempre em busca de novos desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades no universo da programação.
+Neste espaço, você encontrará uma variedade de projetos, abrangendo tanto o desenvolvimento <strong>Frontend</strong> quanto <strong>Backend</strong>, com foco em soluções escaláveis, eficientes e inovadoras.
 Abaixo, compartilho algumas das tecnologias que utilizo diariamente em minha jornada profissional.
+</div>
+<br>
+<br>
+<br>
 
----
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Otavio1661&show_icons=true&count_private=true&hide_border=true&title_color=029000&icon_color=029000&text_color=c9d1d9&bg_color=0d1117" height="150" alt="GitHub Stats"/>
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio1661&locale=pt-br&layout=compact&hide_border=true&title_color=029000&text_color=029000&bg_color=0d1117" />
+</div>
 
-## 📊 Estatísticas de Linguagens e GitHub
-
-Confira abaixo os gráficos com as **linguagens mais utilizadas** e **estatísticas gerais** do meu perfil no GitHub, incluindo repositórios privados:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Otavio1661&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otavio1661&layout=compact&langs_count=8&theme=radical&count_private=true" alt="Top Languages"/>
-</p>
-
----
-
-## 🚀 Desenvolvimento Frontend
-
-No Frontend, estou sempre aprimorando minhas habilidades nas seguintes tecnologias:
+<br>
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<strong>🚀 Desenvolvimento Frontend</strong>
+<br>
+<br>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
 </p>
 
----
-
-## 🖥️ Desenvolvimento Backend
-
-No Backend, foco em tecnologias robustas e de alto desempenho, como:
+<br>
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Blade-E34F26?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/XAMPP-FDB10D?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<strong> 🖥️ Desenvolvimento Backend </strong>
+<br>
+<br>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/Otavio1661/Otavio1661/main/xampp.png" alt="XAMPP"/></code>
+<code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
+
 </p>
 
----
-
-## 💻 Ferramentas que utilizo
-
-Sou fã de ferramentas que ajudam a otimizar meu fluxo de trabalho, como:
+<br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+<strong>💻 Ferramentas que utilizo</strong>
+  <br>
+  <br>
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /></code>
+  <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"/></code>  
 </p>
 
----
-
-## 📚 Sobre mim
+<br>
+<br>
+<br>
 
 Tenho uma grande paixão por desenvolvimento de software e, atualmente, estou aprimorando minhas habilidades no **desenvolvimento Full Stack**. Acredito que a chave para o sucesso é nunca parar de aprender, e por isso estou sempre buscando novos projetos e oportunidades para colaborar e crescer como desenvolvedor.
 
 **1/5 ADS**  
 (Análise e Desenvolvimento de Sistemas)
 
----
+
 
 ## 📫 Como me encontrar
 
-- **Email**: otavio.silva1661@email.com  
-- **LinkedIn**: [Otávio Silva](https://www.linkedin.com/in/otavio-silva-6b8361339/)  
-- **GitHub**: [github.com/Otavio1661](https://github.com/Otavio1661)
-- **WhatsApp**: [Clique aqui para me chamar no WhatsApp](https://wa.me/5544997341687)
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:otavio.silva1661@email.com">
+    <img src="https://github.com/Otavio1661/Otavio1661/blob/main/gmail.png?raw=true" width="50px" style="border-radius: 50%;" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/otavio-silva-6b8361339/">
+    <img src="https://github.com/Otavio1661/Otavio1661/blob/main/linkedin (1).png?raw=true" width="50px" style="border-radius: 50%;" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
+  <!-- GitHub -->
+  <a href="https://github.com/Otavio1661">
+    <img src="https://github.com/Otavio1661/Otavio1661/blob/main/github.png?raw=true" width="50px" style="border-radius: 50%;" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5544997341687">
+    <img src="https://github.com/Otavio1661/Otavio1661/blob/main/whatsapp.png?raw=true" width="50px" style="border-radius: 50%;" alt="WhatsApp"/>
+  </a>
+</p>
 
----
 
 Fique à vontade para explorar meus projetos! Se tiver qualquer dúvida ou sugestão, não hesite em me chamar. 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=029000&height=120&section=footer">
