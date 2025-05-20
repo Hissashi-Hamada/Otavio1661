@@ -19,24 +19,8 @@ Abaixo, compartilho algumas das tecnologias que utilizo diariamente em minha jor
 <br>
 <br>
 
-<p align="center">
-<strong>🚀 Desenvolvimento Frontend</strong>
-<br>
-<br>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-
-</p>
-
-<br>
-<br>
 
 <p align="center">
-<strong> 🖥️ Desenvolvimento Backend </strong>
 <br>
 <br>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
@@ -63,35 +47,6 @@ Abaixo, compartilho algumas das tecnologias que utilizo diariamente em minha jor
 <br>
 
 Tenho uma grande paixão por desenvolvimento de software e, atualmente, estou aprimorando minhas habilidades no **desenvolvimento Full Stack**. Acredito que a chave para o sucesso é nunca parar de aprender, e por isso estou sempre buscando novos projetos e oportunidades para colaborar e crescer como desenvolvedor.
-
-**1/5 ADS**  
-(Análise e Desenvolvimento de Sistemas)
-
-
-
-## 📫 Como me encontrar
-
-<p align="center">
-  <!-- Email -->
-  <a href="mailto:otavio.silva1661@email.com">
-    <img src="https://github.com/Otavio1661/Otavio1661/blob/main/gmail.png?raw=true" width="50px" style="border-radius: 50%;" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/otavio-silva-6b8361339/">
-    <img src="https://github.com/Otavio1661/Otavio1661/blob/main/linkedin (1).png?raw=true" width="50px" style="border-radius: 50%;" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
-  <!-- GitHub -->
-  <a href="https://github.com/Otavio1661">
-    <img src="https://github.com/Otavio1661/Otavio1661/blob/main/github.png?raw=true" width="50px" style="border-radius: 50%;" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
-  <!-- WhatsApp -->
-  <a href="https://wa.me/5544997341687">
-    <img src="https://github.com/Otavio1661/Otavio1661/blob/main/whatsapp.png?raw=true" width="50px" style="border-radius: 50%;" alt="WhatsApp"/>
-  </a>
-</p>
 
 
 Fique à vontade para explorar meus projetos! Se tiver qualquer dúvida ou sugestão, não hesite em me chamar. 🚀
