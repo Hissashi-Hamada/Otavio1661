@@ -64,8 +64,17 @@ Abaixo, compartilho algumas das tecnologias que utilizo diariamente em minha jor
 
 Tenho uma grande paixão por desenvolvimento de software e, atualmente, estou aprimorando minhas habilidades no **desenvolvimento Full Stack**. Acredito que a chave para o sucesso é nunca parar de aprender, e por isso estou sempre buscando novos projetos e oportunidades para colaborar e crescer como desenvolvedor.
 
-**1/5 ADS**  
+**2/5 ADS**  
 (Análise e Desenvolvimento de Sistemas)
+
+
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Otavio1661&theme=gruvbox&margin-w=15&no-frame=true" />
+</p>
+
+---
 
 
 
