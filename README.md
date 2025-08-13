@@ -3,9 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Otavio+Silva;Desenvolvedor+Full+Stack+júnior;Aprendendo+sempre,+avançando+sempre.;)](https://git.io/typing-svg) 
 
 <div align="center">
-Olá eu sou Otavio Silva, seja bem-vindo ao meu perfil no GitHub! Sou desenvolvedor <strong>Full Stack</strong> e estou constantemente em evolução, sempre em busca de novos desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades no universo da programação.
-Neste espaço, você encontrará uma variedade de projetos, abrangendo tanto o desenvolvimento <strong>Frontend</strong> quanto <strong>Backend</strong>, com foco em soluções escaláveis, eficientes e inovadoras.
-Abaixo, compartilho algumas das tecnologias que utilizo diariamente em minha jornada profissional.
+💻 Olá, sou Otavio Silva, Desenvolvedor Full Stack.  
+Atualmente atuo na Gazin Tech, após um ano de experiência como Jovem Aprendiz na área de desenvolvimento.  
+Estou em constante evolução, sempre buscando novos aprendizados e desafios que me permitam expandir meu conhecimento e aprimorar minhas habilidades.  
+<br>
+<br>
+Neste perfil, você encontrará projetos que envolvem tanto Frontend quanto Backend, com foco em soluções escaláveis, eficientes e inovadoras, sempre priorizando código limpo e entregas consistentes.  
+Abaixo, compartilho algumas das tecnologias que utilizo no meu dia a dia.
+
 </div>
 <br>
 <br>
@@ -41,6 +46,7 @@ Abaixo, compartilho algumas das tecnologias que utilizo diariamente em minha jor
 <br>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/></code>
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/Otavio1661/Otavio1661/main/xampp.png" alt="XAMPP"/></code>
 <code><img height="32 "src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></code>
